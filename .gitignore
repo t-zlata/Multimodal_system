@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.idea/
+.venv/
+venv/
+
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+dataset.json
+data/
+images/
+outputs/
+logs/
